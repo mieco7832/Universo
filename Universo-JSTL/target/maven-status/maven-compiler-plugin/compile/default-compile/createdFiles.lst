@@ -1,0 +1,9 @@
+com\universo\repository\PlanetaRepository.class
+com\universo\configs\Conector.class
+com\universo\models\Galaxia.class
+com\universo\configs\TestConnection.class
+com\universo\domain\Domain.class
+com\universo\entity\Espacio.class
+com\universo\repository\GalaxiaRepository.class
+com\universo\servlet\Main.class
+com\universo\models\Planeta.class
